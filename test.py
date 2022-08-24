@@ -4,6 +4,7 @@ print('hello world')
 print('tim is great!')
 print('text')
 print('hello world')
-print('HELLO')
+def main():
+    print("HEELLO")
 #conflict
 #another change
